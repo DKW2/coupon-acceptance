@@ -28,6 +28,8 @@ After I filtered the dataset for records having a coffee house coupon, I ended u
 
 As we can see from these two visuals, there are definite values for visits (>1 times) and time (10AM and 2PM) that have a much higher acceptance rate. Besides these two features, I have also found other factors that have similar impact on whether drivers will accept a coffee house coupon. For more visuals and analysis, the notebook provides a lot more detail.
 
+### Findings
+
 Once I finished my analysis, I found that these are the factors that are strong indications for a high acceptance rate:
 * Drivers who frequent coffee houses at least once a month
 * The driver is NOT 50+ years old
